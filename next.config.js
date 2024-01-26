@@ -1,6 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    env:
-}
+  experimental: {
+    swcPlugins: [["@swc-jotai/react-refresh", {}]],
+  },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
