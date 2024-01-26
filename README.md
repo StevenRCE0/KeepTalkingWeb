@@ -1,7 +1,7 @@
 # Keep Talking Node
 
-This is the Node of the "Keep Talking" project, its main part. 
-It serves as both the client and a server, for web terminals to access without hassles. 
+This is the Node of the "Keep Talking" project, its main part.
+It serves as both the client and a server, for web terminals to access without hassles.
 
 # 🚧 This Repo is Under Construction 🚧
 
@@ -10,3 +10,11 @@ It serves as both the client and a server, for web terminals to access without h
 ## Roadmap
 
 The roadmap will be added soon.
+
+## Usage
+
+### Configuration
+
+For now, Google's Firebase is used as the signaling server. Put the template of the configuration section in `/src/work/firebase.ts`.
+
+Next, fill in the blanks in `/.env.local` for the environment variables.

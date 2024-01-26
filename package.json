@@ -15,9 +15,13 @@
     "@types/react-dom": "18.2.18",
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.4",
+    "firebase": "^10.7.2",
+    "fssys": "^1.0.2",
+    "fwalker": "^1.0.3",
     "next": "14.0.4",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "traverse-fs": "^0.0.9",
     "typescript": "5.3.3"
   }
 }
