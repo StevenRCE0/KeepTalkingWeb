@@ -1,7 +1,6 @@
-# Keep Talking Node
+# Keep Talking Web
 
-This is the Node of the "Keep Talking" project, its main part.
-It serves as both the client and a server, for web terminals to access without hassles.
+This is the web frontend of the "Keep Talking" project.
 
 # 🚧 This Repo is Under Construction 🚧
 
